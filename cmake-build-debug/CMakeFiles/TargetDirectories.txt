@@ -1,0 +1,3 @@
+/Users/sampazdan/Desktop/CS/ThreadNeedle/cmake-build-debug/CMakeFiles/ThreadNeedle.dir
+/Users/sampazdan/Desktop/CS/ThreadNeedle/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sampazdan/Desktop/CS/ThreadNeedle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

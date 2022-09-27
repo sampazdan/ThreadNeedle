@@ -1,0 +1,6 @@
+#ifndef THREADNEEDLE_LIBRARY_H
+#define THREADNEEDLE_LIBRARY_H
+
+void hello(void);
+
+#endif //THREADNEEDLE_LIBRARY_H
